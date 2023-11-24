@@ -4,6 +4,7 @@ url = "https://fullstackopen.com/es/"
 
 # Exercises 0.1: HTML
 Revisa los conceptos básicos de HTML leyendo este tutorial de Mozilla: [tutorial HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics).
+File:"ex0.1html"
 
 # Exercises 0.2: CSS
 Revisa los conceptos básicos de CSS leyendo este tutorial de Mozilla: [tutorial CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics.
