@@ -1,6 +1,6 @@
-# Course Inmersión Profunda en el Desarrollo Web Moderno. Full Stack open
-## From University of Helsinki
-[URL del curso](https://fullstackopen.com/es/)
+# Course Inmersión Profunda en el Desarrollo Web Moderno. 
+## Full Stack open
+## From University of Helsinki [url](https://fullstackopen.com/es/)
 
 # Exercises 0.1: HTML
 __Description__: Revisa los conceptos básicos de HTML leyendo este tutorial de Mozilla: [Tutorial HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics).
