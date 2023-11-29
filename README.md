@@ -25,7 +25,15 @@ Toda la información necesaria para hacer esto, y los dos ejercicios siguientes,
 La idea de estos ejercicios es leer el texto una vez más y pensar en lo que está sucediendo allí. No es necesario leer el código de la aplicación pero, por supuesto, es posible.
 Puedes crear los diagramas con cualquier programa, pero quizás la mejor y más fácil forma de hacer diagramas es utilizando la sintaxis de Mermaid que ahora está implementada en las páginas de Markdown de GitHub.
 
-__File__:"ejercicio04.md"
+__File__:"ejercicio04.mmd"
 __Resultfile__ [File](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
 
 ![Esta es una imagen de ejemplo]([https://ejemplo.com/imagen.jpg](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
+
+
+# Exercises 0.5:Diagrama de aplicación de una sola página
+__Description__: Crea un diagrama que describa la situación en la que el usuario accede a la versión de
+[aplicación de una sola página](https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web#aplicacion-de-una-sola-pagina)
+de la aplicación de notas en [url](https://studies.cs.helsinki.fi/exampleapp/spa)
+
+__File__:"ejercicio05.mmd"
