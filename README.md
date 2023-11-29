@@ -26,9 +26,6 @@ La idea de estos ejercicios es leer el texto una vez más y pensar en lo que est
 Puedes crear los diagramas con cualquier programa, pero quizás la mejor y más fácil forma de hacer diagramas es utilizando la sintaxis de Mermaid que ahora está implementada en las páginas de Markdown de GitHub.
 
 __File__:"ejercicio04.mmd"
-__Resultfile__ [File](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
-
-![Esta es una imagen de ejemplo]([https://ejemplo.com/imagen.jpg](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
 
 
 # Exercises 0.5:Diagrama de aplicación de una sola página
