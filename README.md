@@ -37,3 +37,12 @@ __Description__: Crea un diagrama que describa la situación en la que el usuari
 de la aplicación de notas en [url](https://studies.cs.helsinki.fi/exampleapp/spa)
 
 __File__:"ejercicio05.mmd"
+
+
+# Exercises 0.6: Nueva nota en diagrama de aplicación de una sola pagina
+
+__Description__: Crea un diagrama que represente la situación en la que el usuario crea una nueva nota 
+utilizando la versión de la [aplicación de una sola página](https://fullstackopen.com/es/part0/].
+Este fue el último ejercicio de la Parte 0.
+
+__File__:"ejercicio06.mmd"
