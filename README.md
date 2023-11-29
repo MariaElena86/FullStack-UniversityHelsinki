@@ -27,3 +27,5 @@ Puedes crear los diagramas con cualquier programa, pero quizás la mejor y más 
 
 __File__:"ejercicio04.md"
 __Resultfile__ [File](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
+
+![Esta es una imagen de ejemplo]([https://ejemplo.com/imagen.jpg](https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)https://www.mermaidchart.com/raw/0b7359d4-86ff-4a90-b39c-2bbea9f1471a?theme=light&version=v0.1&format=svg)
