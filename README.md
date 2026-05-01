@@ -2,7 +2,7 @@
 ## Full Stack open
 ## From University of Helsinki [url](https://fullstackopen.com/es/)
 
-#Parte 0
+# Parte 0
 # Ejercicios Parte 0 (0.1-0.6)
 
 ## Exercises 0.1: HTML
@@ -42,7 +42,7 @@ __File__:"ejercicio05.mmd"
 ## Exercises 0.6: Nueva nota en diagrama de aplicación de una sola pagina
 
 
-#Parte 1
+# Parte 1
 # Ejercicios Parte 1 (1.1-1.2)
 
 ## 1.1: información del curso, paso 1
